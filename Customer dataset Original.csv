@@ -1,0 +1,328 @@
+CustomerKey,Prefix,FirstName,LastName,BirthDate,MaritalStatus,Gender,EmailAddress,AnnualIncome,TotalChildren,EducationLevel,Occupation,HomeOwner
+13001,MR.,CLARENCE,ZHANG,9/6/1969,S,M,clarence37@adventure-works.com,130000,1,Graduate Degree,Management,Y
+13002,MR.,ROGER,CAI,8/22/1967,M,M,roger25@adventure-works.com,80000,5,Graduate Degree,Management,N
+13003,MRS.,JILL,HERNANDEZ,1/20/1967,M,F,jill11@adventure-works.com,80000,5,Graduate Degree,Management,Y
+13004,MR.,RANDY,CHEN,5/4/1967,M,M,randy4@adventure-works.com,80000,5,Graduate Degree,Management,N
+13005,MRS.,DESIREE,ALVAREZ,8/15/1966,M,F,desiree0@adventure-works.com,80000,5,Graduate Degree,Management,N
+13006,MS.,WHITNEY,RANA,4/21/1966,S,F,whitney10@adventure-works.com,90000,0,Bachelors,Professional,N
+13007,MRS.,BROOKE,WARD,10/5/1965,S,F,brooke11@adventure-works.com,60000,2,Bachelors,Professional,N
+13008,MR.,ALBERTO,MUÑOZ,7/9/1965,M,M,alberto8@adventure-works.com,60000,3,Bachelors,Professional,Y
+13009,MRS.,MINDY,SHE,3/11/1965,M,F,mindy4@adventure-works.com,60000,3,Bachelors,Professional,Y
+13010,MRS.,ERICA,YE,8/16/1965,M,F,erica9@adventure-works.com,60000,3,Bachelors,Professional,Y
+13011,MS.,ANNE,ORTEGA,5/4/1965,S,F,anne22@adventure-works.com,70000,0,Bachelors,Professional,N
+13012,MS.,KRYSTAL,HU,9/24/1965,S,F,krystal20@adventure-works.com,70000,0,Bachelors,Professional,N
+13013,MR.,VINCENT,YE,11/8/1964,M,M,vincent9@adventure-works.com,60000,4,Bachelors,Professional,N
+13014,MR.,JAMES,CLARK,7/13/1968,M,M,james92@adventure-works.com,100000,2,Bachelors,Management,Y
+13015,MRS.,REBECCA,PARKER,7/11/1968,S,F,rebecca10@adventure-works.com,100000,2,Bachelors,Management,N
+13016,MR.,ANTONIO,BRYANT,7/4/1968,M,M,antonio18@adventure-works.com,110000,1,Graduate Degree,Management,Y
+13017,MR.,XAVIER,ALEXANDER,2/16/1979,M,M,xavier59@adventure-works.com,30000,0,Partial College,Skilled Manual,Y
+13018,MR.,BRENDAN,XIE,10/11/1944,M,M,brendan3@adventure-works.com,10000,5,High School,Skilled Manual,Y
+13019,MS.,DESTINY,MURPHY,3/1/1979,S,F,destiny31@adventure-works.com,60000,0,Partial College,Skilled Manual,Y
+13020,MR.,MADALENA,SANCHEZ,5/10/1945,M,M,madalena0@adventure-works.com,10000,2,Partial High School,Clerical,Y
+13021,MRS.,KENDRA,DIAZ,7/9/1946,S,F,kendra3@adventure-works.com,30000,2,Partial College,Clerical,Y
+13022,MR.,RAFAEL,MA,8/24/1947,M,M,rafael17@adventure-works.com,10000,2,Partial High School,Clerical,Y
+13023,MRS.,DOMINIQUE,RAMAN,2/27/1947,S,F,dominique9@adventure-works.com,20000,4,High School,Skilled Manual,Y
+13024,MR.,MARC,MORENO,3/9/1947,M,M,marc10@adventure-works.com,30000,2,Partial College,Clerical,N
+13025,MR.,REGINALD,SERRANO,11/19/1947,M,M,reginald2@adventure-works.com,30000,2,Partial College,Clerical,N
+13026,MRS.,COLLEEN,ZHENG,4/15/1948,S,F,colleen20@adventure-works.com,10000,2,Partial High School,Clerical,Y
+13027,MR.,JEREMY,PATTERSON,12/11/1977,S,M,jeremy27@adventure-works.com,40000,0,Partial High School,Clerical,Y
+13028,MR.,DALTON,THOMPSON,9/17/1977,S,M,dalton14@adventure-works.com,30000,0,Partial College,Skilled Manual,Y
+13029,MS.,JENNIFER,FOSTER,9/5/1977,S,F,jennifer89@adventure-works.com,30000,0,Partial College,Skilled Manual,N
+13030,MS.,SOPHIA,LOPEZ,7/13/1977,S,F,sophia19@adventure-works.com,60000,0,Partial College,Skilled Manual,Y
+13031,MR.,HUNTER,SHAN,2/16/1977,S,M,hunter26@adventure-works.com,60000,0,Partial College,Skilled Manual,N
+13032,MR.,KEVIN,BAKER,4/9/1977,M,M,kevin45@adventure-works.com,70000,0,Partial College,Skilled Manual,Y
+13033,MR.,XAVIER,GONZALEZ,11/20/1976,S,M,xavier31@adventure-works.com,60000,0,Partial College,Skilled Manual,N
+13034,MRS.,KELSEY,YUAN,2/27/1949,S,F,kelsey6@adventure-works.com,20000,2,Partial High School,Clerical,Y
+13035,MRS.,KRISTY,TORRES,11/3/1950,M,F,kristy11@adventure-works.com,30000,3,Partial College,Clerical,N
+13036,MRS.,VIRGINIA,SUBRAM,2/3/1950,S,F,virginia15@adventure-works.com,30000,3,Partial College,Clerical,Y
+13037,MR.,TERRENCE,PAL,4/26/1950,M,M,terrence12@adventure-works.com,30000,3,High School,Skilled Manual,N
+13038,MR.,WILSON,PAIS,2/1/1950,M,M,wilson0@adventure-works.com,40000,2,Bachelors,Management,N
+13039,MS.,TRISHA,MA,8/20/1980,S,F,trisha10@adventure-works.com,20000,0,Partial College,Skilled Manual,N
+13040,MR.,ROY,GONZALEZ,9/20/1951,M,M,roy19@adventure-works.com,30000,3,High School,Skilled Manual,Y
+13041,MR.,CAMERON,BROWN,11/5/1951,M,M,cameron45@adventure-works.com,30000,3,High School,Skilled Manual,N
+13042,MRS.,ALISON,PAL,9/21/1951,M,F,alison12@adventure-works.com,30000,3,High School,Skilled Manual,Y
+13043,MRS.,BRENDA,MADAN,4/25/1952,M,F,brenda11@adventure-works.com,30000,3,High School,Skilled Manual,N
+13044,MRS.,KATRINA,JAI,1/23/1952,M,F,katrina10@adventure-works.com,30000,3,High School,Skilled Manual,N
+13045,MRS.,ANNE,GOMEZ,11/13/1952,M,F,anne2@adventure-works.com,30000,3,High School,Skilled Manual,Y
+13046,MR.,JONATHAN,RODRIGUEZ,10/5/1952,M,M,jonathan74@adventure-works.com,30000,3,High School,Skilled Manual,Y
+13047,MR.,RODNEY,VAZQUEZ,9/2/1952,M,M,rodney10@adventure-works.com,40000,2,Partial College,Clerical,N
+13048,MRS.,ALEXIS,HAYES,6/26/1952,M,F,alexis46@adventure-works.com,40000,2,Partial College,Skilled Manual,Y
+13049,MRS.,AUTUMN,WANG,7/6/1953,M,F,autumn1@adventure-works.com,40000,3,Partial College,Skilled Manual,N
+13050,MR.,DENNIS,ZENG,12/19/1953,M,M,dennis24@adventure-works.com,40000,3,Partial College,Skilled Manual,N
+13051,MR.,ETHAN,JONES,11/27/1954,S,M,ethan33@adventure-works.com,80000,2,Partial College,Skilled Manual,N
+13052,MR.,JARED,MORRIS,11/11/1975,S,M,jared20@adventure-works.com,40000,0,Partial College,Skilled Manual,N
+13053,MR.,VINCENT,LU,5/16/1975,S,M,vincent11@adventure-works.com,40000,0,Partial College,Skilled Manual,N
+13054,MR.,BRYCE,WARD,9/17/1975,M,M,bryce11@adventure-works.com,40000,0,Partial College,Skilled Manual,Y
+13055,MR.,PATRICK,GRAY,10/19/1975,S,M,patrick12@adventure-works.com,30000,0,High School,Skilled Manual,Y
+13056,MS.,MORGAN,BLUE,9/23/1975,S,F,morgan52@adventure-works.com,30000,0,High School,Skilled Manual,Y
+13057,MS.,DESTINY,POWELL,6/21/1975,S,F,destiny57@adventure-works.com,30000,0,High School,Skilled Manual,Y
+13058,MR.,RAMON,HUANG,8/16/1975,M,M,ramon5@adventure-works.com,30000,0,High School,Skilled Manual,Y
+13059,MR.,KEITH,DENG,2/15/1975,M,M,keith3@adventure-works.com,30000,0,High School,Skilled Manual,Y
+13060,MR.,EUGENE,ZHU,6/9/1975,M,M,eugene18@adventure-works.com,30000,0,High School,Skilled Manual,Y
+13061,MR.,ETHAN,ANDERSON,6/1/1974,S,M,ethan43@adventure-works.com,40000,0,High School,Skilled Manual,N
+13062,MR.,EDUARDO,WILLIAMS,7/9/1974,S,M,eduardo2@adventure-works.com,40000,0,High School,Skilled Manual,Y
+13063,MS.,JESSICA,JOHNSON,3/14/1974,S,F,jessica48@adventure-works.com,40000,0,High School,Skilled Manual,Y
+13064,MR.,DALTON,PARKER,3/17/1974,S,M,dalton42@adventure-works.com,40000,0,High School,Skilled Manual,N
+13065,MS.,MORGAN,GONZALEZ,4/21/1974,S,F,morgan14@adventure-works.com,30000,0,High School,Skilled Manual,N
+13066,MR.,CARSON,PERRY,9/25/1974,S,M,carson6@adventure-works.com,30000,0,High School,Skilled Manual,N
+13067,MS.,OLIVIA,GARCIA,11/25/1974,S,F,olivia15@adventure-works.com,30000,0,High School,Skilled Manual,Y
+13068,MS.,ALEXANDRIA,MORRIS,2/18/1974,S,F,alexandria39@adventure-works.com,30000,0,High School,Skilled Manual,N
+13069,MR.,ADAM,GREEN,8/19/1974,M,M,adam45@adventure-works.com,30000,0,High School,Skilled Manual,Y
+13070,MS.,EMMA,CLARK,10/18/1973,S,F,emma18@adventure-works.com,60000,0,Partial College,Skilled Manual,Y
+13071,MR.,THOMAS,WALKER,5/11/1973,M,M,thomas82@adventure-works.com,60000,0,Partial College,Skilled Manual,Y
+13072,MS.,EMMA,ROGERS,11/2/1973,S,F,emma27@adventure-works.com,70000,0,Partial College,Professional,Y
+13073,MS.,SYDNEY,LOPEZ,1/12/1976,M,F,sydney62@adventure-works.com,60000,0,Partial College,Professional,Y
+13074,MS.,GRACE,HUGHES,9/12/1976,M,F,grace59@adventure-works.com,60000,0,Partial College,Professional,Y
+13075,MR.,KELVIN,LIN,4/11/1955,M,M,kelvin27@adventure-works.com,80000,2,High School,Skilled Manual,N
+13076,MR.,CRAIG,MUNOZ,3/3/1955,S,M,craig8@adventure-works.com,80000,2,High School,Skilled Manual,N
+13077,MR.,ALEJANDRO,GOEL,5/24/1956,S,M,alejandro44@adventure-works.com,70000,2,High School,Skilled Manual,N
+13078,MRS.,MICHELE,CHANDE,1/22/1956,S,F,michele15@adventure-works.com,70000,2,High School,Skilled Manual,Y
+13079,MR.,EDWIN,BHAT,2/26/1957,S,M,edwin43@adventure-works.com,80000,2,High School,Professional,N
+13080,MRS.,DENISE,MEHTA,5/18/1957,S,F,denise15@adventure-works.com,80000,2,High School,Professional,N
+13081,MRS.,KRISTA,RUIZ,3/24/1957,S,F,krista2@adventure-works.com,80000,2,High School,Professional,N
+13082,MR.,JUAN,PETERSON,2/24/1958,S,M,juan15@adventure-works.com,130000,0,Graduate Degree,Management,Y
+13083,MS.,JORDYN,BUTLER,2/26/1973,S,F,jordyn14@adventure-works.com,70000,0,Partial College,Professional,Y
+13084,MR.,LUIS,HUGHES,10/14/1974,S,M,luis10@adventure-works.com,30000,0,High School,Professional,N
+13085,MR.,DANIEL,HARRIS,3/19/1974,S,M,daniel10@adventure-works.com,30000,0,Partial High School,Skilled Manual,Y
+13086,MR.,BLAKE,NELSON,5/20/1974,S,M,blake36@adventure-works.com,60000,0,Partial College,Professional,Y
+13087,MR.,JEREMY,COLLINS,11/8/1974,S,M,jeremy19@adventure-works.com,60000,0,Partial College,Professional,Y
+13088,MS.,MEGAN,POWELL,2/23/1974,S,F,megan58@adventure-works.com,60000,0,Partial College,Professional,N
+13089,MRS.,ELIZABETH,ALEXANDER,9/1/1959,M,F,elizabeth47@adventure-works.com,120000,1,Bachelors,Management,Y
+13090,MR.,WAYNE,TANG,6/1/1959,S,M,wayne5@adventure-works.com,130000,0,Graduate Degree,Management,N
+13091,MS.,DEANNA,MARTIN,8/11/1959,S,F,deanna25@adventure-works.com,130000,0,Graduate Degree,Management,N
+13092,MR.,WILLIAM,WALKER,11/4/1966,M,M,william29@adventure-works.com,130000,0,Graduate Degree,Management,Y
+13093,MRS.,MICHELLE,JAMES,10/15/1957,S,F,michelle9@adventure-works.com,80000,2,Partial High School,Skilled Manual,N
+13094,MR.,ANTONIO,DIAZ,3/23/1957,M,M,antonio22@adventure-works.com,60000,2,High School,Professional,N
+13095,MR.,JORDAN,GRIFFIN,7/24/1957,S,M,jordan18@adventure-works.com,60000,2,High School,Professional,Y
+13096,MR.,JONATHAN,CHEN,10/20/1957,M,M,jonathan24@adventure-works.com,60000,2,High School,Professional,N
+13097,MR.,DALTON,HUGHES,5/14/1957,M,M,dalton57@adventure-works.com,60000,2,High School,Professional,N
+13098,MR.,MIGUEL,RUSSELL,10/7/1957,M,M,miguel66@adventure-works.com,60000,2,High School,Professional,N
+13099,MR.,JAY,ROMERO,8/4/1957,M,M,jay38@adventure-works.com,70000,3,Partial College,Professional,N
+13100,MR.,JEREMY,PEREZ,7/16/1957,M,M,jeremy14@adventure-works.com,80000,2,Bachelors,Management,N
+13101,MR.,ALEX,SANCHEZ,10/7/1957,S,M,alex21@adventure-works.com,90000,2,Partial College,Professional,Y
+13102,MRS.,MARIAH,BRYANT,9/19/1957,S,F,mariah23@adventure-works.com,90000,2,Partial College,Professional,Y
+13103,MR.,BRENDAN,RAJI,8/2/1963,S,M,brendan19@adventure-works.com,70000,0,Bachelors,Professional,N
+13104,MR.,GREGORY,BECKER,4/12/1963,S,M,gregory24@adventure-works.com,70000,0,Bachelors,Professional,N
+13105,MRS.,WHITNEY,KOVÁR,7/2/1962,M,F,whitney4@adventure-works.com,60000,1,Bachelors,Professional,Y
+13106,MRS.,EBONY,MUNOZ,7/8/1962,M,F,ebony30@adventure-works.com,60000,1,Bachelors,Professional,Y
+13107,MRS.,MARY,NELSON,7/11/1962,M,F,mary22@adventure-works.com,60000,1,Bachelors,Professional,Y
+13108,MR.,CURTIS,WANG,12/26/1962,M,M,curtis2@adventure-works.com,60000,1,Bachelors,Professional,Y
+13109,MRS.,CHERYL,NAVARRO,8/12/1962,M,F,cheryl12@adventure-works.com,60000,1,Bachelors,Professional,Y
+13111,MRS.,HANNAH,BUTLER,8/16/1961,S,F,hannah36@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
+13112,MRS.,BIANCA,GAO,7/23/1961,S,F,bianca11@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
+13113,MR.,BRYANT,SANCHEZ,7/14/1966,S,M,bryant19@adventure-works.com,100000,0,Bachelors,Professional,N
+13114,MS.,CLAUDIA,ZHANG,5/1/1966,S,F,claudia0@adventure-works.com,100000,0,Bachelors,Professional,N
+13115,MR.,CLARENCE,WU,9/27/1966,S,M,clarence2@adventure-works.com,110000,0,Graduate Degree,Management,Y
+13116,MR.,TYRONE,DIAZ,5/8/1966,S,M,tyrone2@adventure-works.com,110000,0,Graduate Degree,Management,N
+13117,MS.,EVELYN,RODRIGUEZ,1/11/1966,S,F,evelyn20@adventure-works.com,110000,0,Graduate Degree,Management,N
+13118,MRS.,SYDNEY,COOK,7/8/1960,M,F,sydney5@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
+13119,MS.,JACLYN,GUO,11/10/1965,S,F,jaclyn19@adventure-works.com,70000,0,Bachelors,Professional,N
+13120,MR.,LEVI,WEBER,7/9/1965,M,M,levi3@adventure-works.com,80000,5,Bachelors,Professional,Y
+13121,MRS.,LATASHA,JIMENEZ,3/22/1965,M,F,latasha5@adventure-works.com,80000,5,Bachelors,Professional,Y
+13122,MS.,CATHERINE,COX,8/2/1965,M,F,catherine9@adventure-works.com,80000,0,Bachelors,Professional,Y
+13123,MS.,KELLI,RAJI,5/4/1964,S,F,kelli44@adventure-works.com,70000,0,Bachelors,Professional,N
+13124,MR.,MARCO,VANCE,3/1/1964,S,M,marco4@adventure-works.com,70000,0,Bachelors,Professional,N
+13125,MR.,ALEJANDRO,HU,7/8/1964,S,M,alejandro23@adventure-works.com,70000,0,Bachelors,Professional,N
+13126,MS.,LYDIA,SURI,2/4/1964,S,F,lydia0@adventure-works.com,70000,0,Bachelors,Professional,N
+13127,MR.,SHANE,FERNANDEZ,12/10/1964,S,M,shane18@adventure-works.com,70000,0,Bachelors,Professional,N
+13128,MS.,COLLEEN,WEST,4/23/1964,S,F,colleen1@adventure-works.com,70000,0,Bachelors,Professional,N
+13129,MS.,JOY,RAMOS,6/1/1964,S,F,joy16@adventure-works.com,70000,0,Bachelors,Professional,Y
+13130,MR.,DALTON,MILLER,10/26/1959,M,M,dalton5@adventure-works.com,90000,1,Bachelors,Professional,Y
+13131,MRS.,BRIANA,DIAZ,9/1/1959,M,F,briana3@adventure-works.com,90000,1,Bachelors,Professional,Y
+13132,MR.,CASEY,VAZQUEZ,2/21/1959,S,M,casey38@adventure-works.com,90000,1,Bachelors,Professional,Y
+13133,MR.,DEVON,KENNEDY,8/19/1959,S,M,devon5@adventure-works.com,100000,5,Bachelors,Professional,Y
+13134,MRS.,SARA,MORGAN,5/1/1934,S,F,sara24@adventure-works.com,50000,1,Graduate Degree,Management,Y
+13135,MR.,JOHNNY,RAI,8/3/1957,S,M,johnny19@adventure-works.com,80000,1,Partial College,Skilled Manual,Y
+13136,MRS.,VIRGINIA,MARTINEZ,11/12/1936,M,F,virginia20@adventure-works.com,30000,2,Partial College,Clerical,N
+13137,MRS.,JACQUELINE,SIMMONS,2/9/1960,M,F,jacqueline16@adventure-works.com,70000,5,Partial College,Skilled Manual,N
+13138,,TERESA,ALONSO,6/11/1960,M,NA,teresa8@adventure-works.com,70000,5,Partial College,Skilled Manual,Y
+13139,MRS.,CARMEN,PEREZ,2/9/1956,S,F,carmen3@adventure-works.com,70000,1,Partial College,Skilled Manual,N
+13141,MR.,WALTER,HERNANDEZ,10/8/1953,M,M,walter16@adventure-works.com,40000,2,Bachelors,Management,Y
+13142,MR.,XAVIER,MOORE,3/23/1975,M,M,xavier6@adventure-works.com,40000,0,High School,Skilled Manual,Y
+13143,MS.,HANNAH,JACKSON,2/6/1975,M,F,hannah11@adventure-works.com,40000,0,High School,Skilled Manual,Y
+13144,MS.,DESTINY,STEWART,8/27/1976,S,F,destiny23@adventure-works.com,40000,0,High School,Skilled Manual,N
+13145,MR.,GILBERT,XU,1/22/1976,M,M,gilbert9@adventure-works.com,40000,0,High School,Skilled Manual,Y
+13146,MS.,GABRIELLA,RAMIREZ,5/15/1976,S,F,gabriella4@adventure-works.com,40000,0,High School,Skilled Manual,N
+13147,MR.,CEDRIC,LIN,8/23/1980,M,M,cedric8@adventure-works.com,30000,0,High School,Skilled Manual,N
+13148,MR.,TYLER,ANDERSON,4/1/1980,M,M,tyler18@adventure-works.com,30000,0,High School,Skilled Manual,Y
+13149,MRS.,LINDA,FERRIER,2/18/1946,M,F,linda23@adventure-works.com,10000,5,High School,Skilled Manual,Y
+13150,MRS.,LACEY,YANG,6/10/1937,S,F,lacey17@adventure-works.com,30000,2,Partial College,Clerical,Y
+13151,MR.,ETHAN,MOORE,12/6/1978,S,M,ethan41@adventure-works.com,40000,0,High School,Skilled Manual,Y
+13152,MS.,GABRIELLE,BUTLER,2/16/1978,M,F,gabrielle36@adventure-works.com,40000,0,High School,Skilled Manual,Y
+13153,MR.,JACK,HILL,10/18/1979,S,M,jack49@adventure-works.com,40000,0,High School,Skilled Manual,Y
+11000,MR.,JON,YANG,4/8/1966,M,M,jon24@adventure-works.com,90000,2,Bachelors,Professional,Y
+11001,MR.,EUGENE,HUANG,5/14/1965,S,M,eugene10@adventure-works.com,60000,3,Bachelors,Professional,N
+11002,MR.,RUBEN,TORRES,8/12/1965,M,M,ruben35@adventure-works.com,60000,3,Bachelors,Professional,Y
+11003,MS.,CHRISTY,ZHU,2/15/1968,S,F,christy12@adventure-works.com,70000,0,Bachelors,Professional,N
+11004,MRS.,ELIZABETH,JOHNSON,8/8/1968,S,F,elizabeth5@adventure-works.com,80000,5,Bachelors,Professional,Y
+11005,MR.,JULIO,RUIZ,8/5/1965,S,M,julio1@adventure-works.com,70000,0,Bachelors,Professional,Y
+11007,MR.,MARCO,MEHTA,5/9/1964,M,M,marco14@adventure-works.com,60000,3,Bachelors,Professional,Y
+11008,MRS.,ROBIN,VERHOFF,7/7/1964,S,F,rob4@adventure-works.com,60000,4,Bachelors,Professional,Y
+11009,MR.,SHANNON,CARLSON,4/1/1964,S,M,shannon38@adventure-works.com,70000,0,Bachelors,Professional,N
+11010,MS.,JACQUELYN,SUAREZ,2/6/1964,S,F,jacquelyn20@adventure-works.com,70000,0,Bachelors,Professional,N
+11011,MR.,CURTIS,LU,11/4/1963,M,M,curtis9@adventure-works.com,60000,4,Bachelors,Professional,Y
+11012,MRS.,LAUREN,WALKER,1/18/1968,M,F,lauren41@adventure-works.com,100000,2,Bachelors,Management,Y
+11013,MR.,IAN,JENKINS,8/6/1968,M,M,ian47@adventure-works.com,100000,2,Bachelors,Management,Y
+11014,MRS.,SYDNEY,BENNETT,5/9/1968,S,F,sydney23@adventure-works.com,100000,3,Bachelors,Management,N
+11015,MS.,CHLOE,YOUNG,2/27/1979,S,F,chloe23@adventure-works.com,30000,0,Partial College,Skilled Manual,N
+11016,MR.,WYATT,HILL,4/28/1979,M,M,wyatt32@adventure-works.com,30000,0,Partial College,Skilled Manual,Y
+11017,MRS.,SHANNON,WANG,6/26/1944,S,F,shannon1@adventure-works.com,20000,4,High School,Skilled Manual,Y
+11018,MR.,CLARENCE,RAI,10/9/1944,S,M,clarence32@adventure-works.com,30000,2,Partial College,Clerical,Y
+11019,MR.,LUKE,LAL,3/7/1978,S,M,luke18@adventure-works.com,40000,0,High School,Skilled Manual,N
+11020,MR.,JORDAN,KING,9/20/1978,S,M,jordan73@adventure-works.com,40000,0,High School,Skilled Manual,N
+11021,MS.,DESTINY,WILSON,9/3/1978,S,F,destiny7@adventure-works.com,40000,0,Partial College,Skilled Manual,N
+11022,MR.,ETHAN,ZHANG,10/12/1978,M,M,ethan20@adventure-works.com,40000,0,Partial College,Skilled Manual,Y
+11023,MR.,SETH,EDWARDS,10/11/1978,M,M,seth46@adventure-works.com,40000,0,Partial College,Skilled Manual,Y
+11024,MR.,RUSSELL,XIE,9/17/1978,M,M,russell7@adventure-works.com,60000,0,Partial College,Skilled Manual,Y
+11025,,ALEJANDRO,BECK,12/23/1945,M,NA,alejandro45@adventure-works.com,10000,2,Partial High School,Clerical,Y
+11026,MR.,HAROLD,SAI,4/3/1946,S,M,harold3@adventure-works.com,30000,2,Partial College,Clerical,N
+11027,MR.,JESSIE,ZHAO,12/7/1946,M,M,jessie16@adventure-works.com,30000,2,Partial College,Clerical,Y
+11028,MRS.,JILL,JIMENEZ,4/11/1946,M,F,jill13@adventure-works.com,30000,2,Partial College,Clerical,Y
+11029,MR.,JIMMY,MORENO,12/21/1946,M,M,jimmy9@adventure-works.com,30000,2,Partial College,Clerical,Y
+11030,MRS.,BETHANY,YUAN,2/22/1947,M,F,bethany10@adventure-works.com,10000,2,Partial High School,Clerical,Y
+11031,MRS.,THERESA,RAMOS,8/22/1947,M,F,theresa13@adventure-works.com,20000,4,High School,Skilled Manual,Y
+11032,MRS.,DENISE,STONE,6/11/1947,M,F,denise10@adventure-works.com,20000,4,High School,Skilled Manual,Y
+11033,MR.,JAIME,NATH,9/23/1947,M,M,jaime41@adventure-works.com,20000,4,High School,Skilled Manual,Y
+11034,MRS.,EBONY,GONZALEZ,6/19/1947,M,F,ebony19@adventure-works.com,20000,4,High School,Skilled Manual,Y
+11035,,WENDY,DOMINGUEZ,2/24/1948,M,NA,wendy12@adventure-works.com,10000,2,Partial High School,Clerical,Y
+11036,MS.,JENNIFER,RUSSELL,12/18/1978,M,F,jennifer93@adventure-works.com,60000,0,Partial College,Skilled Manual,Y
+11037,MS.,CHLOE,GARCIA,11/27/1977,S,F,chloe27@adventure-works.com,40000,0,Partial High School,Clerical,N
+11038,MRS.,DIANA,HERNANDEZ,3/23/1948,M,F,diana2@adventure-works.com,10000,2,Partial High School,Clerical,Y
+11039,MR.,MARC,MARTIN,12/17/1948,M,M,marc3@adventure-works.com,30000,3,Partial College,Clerical,Y
+11040,MR.,JESSE,MURPHY,8/1/1977,M,M,jesse15@adventure-works.com,30000,0,Partial College,Skilled Manual,Y
+11041,MS.,AMANDA,CARTER,10/16/1977,M,F,amanda53@adventure-works.com,60000,0,Partial College,Skilled Manual,Y
+11042,MS.,MEGAN,SANCHEZ,6/13/1977,M,F,megan28@adventure-works.com,70000,0,Partial College,Skilled Manual,Y
+11043,MR.,NATHAN,SIMMONS,2/24/1976,M,M,nathan11@adventure-works.com,60000,0,Partial College,Skilled Manual,Y
+11044,MR.,ADAM,FLORES,5/24/1949,M,M,adam10@adventure-works.com,20000,2,Partial High School,Clerical,Y
+11045,MR.,LEONARD,NARA,5/19/1950,S,M,leonard18@adventure-works.com,30000,3,High School,Skilled Manual,N
+11046,MRS.,CHRISTINE,YUAN,3/22/1950,M,F,christine4@adventure-works.com,30000,3,High School,Skilled Manual,Y
+11047,MRS.,JACLYN,LU,2/27/1950,M,F,jaclyn12@adventure-works.com,30000,3,High School,Skilled Manual,N
+11048,MR.,JEREMY,POWELL,11/22/1950,M,M,jeremy26@adventure-works.com,30000,3,High School,Skilled Manual,Y
+11049,MS.,CAROL,RAI,7/18/1980,S,F,carol8@adventure-works.com,40000,0,Partial High School,Clerical,Y
+11050,MR.,ALAN,ZHENG,9/7/1951,M,M,alan23@adventure-works.com,30000,3,High School,Skilled Manual,Y
+11051,MR.,DANIEL,JOHNSON,8/4/1951,S,M,daniel18@adventure-works.com,30000,3,High School,Skilled Manual,N
+11052,MRS.,HEIDI,LOPEZ,8/7/1951,S,F,heidi19@adventure-works.com,40000,2,Partial College,Clerical,N
+11053,MS.,ANA,PRICE,8/20/1980,M,F,ana0@adventure-works.com,60000,0,Partial College,Skilled Manual,N
+11054,MRS.,DEANNA,MUNOZ,3/10/1952,M,F,deanna33@adventure-works.com,40000,2,Partial College,Skilled Manual,Y
+11055,MR.,GILBERT,RAJE,3/5/1952,M,M,gilbert35@adventure-works.com,40000,2,Partial College,Skilled Manual,Y
+11056,MRS.,MICHELE,NATH,4/3/1953,M,F,michele19@adventure-works.com,40000,3,Partial College,Skilled Manual,Y
+11057,MR.,CARL,ANDERSEN,10/12/1953,M,M,carl12@adventure-works.com,70000,2,Graduate Degree,Management,Y
+11058,MR.,MARC,DIAZ,4/27/1954,M,M,marc6@adventure-works.com,80000,2,Partial College,Skilled Manual,Y
+11059,MRS.,ASHLEE,ANDERSEN,4/1/1954,S,F,ashlee19@adventure-works.com,80000,2,Partial College,Skilled Manual,Y
+11060,MR.,JON,ZHOU,3/17/1954,M,M,jon28@adventure-works.com,80000,2,Partial College,Skilled Manual,Y
+11061,MR.,TODD,GAO,2/27/1954,M,M,todd14@adventure-works.com,80000,2,Partial College,Skilled Manual,Y
+11062,MR.,NOAH,POWELL,9/2/1975,M,M,noah5@adventure-works.com,40000,0,High School,Skilled Manual,Y
+11063,MS.,ANGELA,MURPHY,4/7/1975,S,F,angela41@adventure-works.com,40000,0,High School,Skilled Manual,Y
+11064,MR.,CHASE,REED,12/7/1975,M,M,chase21@adventure-works.com,40000,0,High School,Skilled Manual,Y
+11065,MS.,JESSICA,HENDERSON,10/9/1973,M,F,jessica29@adventure-works.com,60000,0,Partial College,Skilled Manual,N
+11066,MS.,GRACE,BUTLER,11/27/1973,M,F,grace62@adventure-works.com,70000,0,Partial College,Professional,Y
+11067,MR.,CALEB,CARTER,9/25/1976,S,M,caleb40@adventure-works.com,60000,0,Partial College,Professional,Y
+11068,MRS.,TIFFANY,LIANG,9/23/1955,S,F,tiffany17@adventure-works.com,80000,2,High School,Skilled Manual,Y
+11069,MRS.,CAROLYN,NAVARRO,9/21/1955,S,F,carolyn30@adventure-works.com,80000,2,High School,Skilled Manual,N
+11070,MR.,WILLIE,RAJI,4/5/1955,M,M,willie40@adventure-works.com,80000,2,High School,Skilled Manual,Y
+11071,MRS.,LINDA,SERRANO,6/26/1955,S,F,linda31@adventure-works.com,80000,2,High School,Skilled Manual,Y
+11072,MRS.,CASEY,LUO,2/6/1955,S,F,casey6@adventure-works.com,80000,2,High School,Skilled Manual,N
+11073,MRS.,AMY,YE,8/14/1956,S,F,amy16@adventure-works.com,70000,2,High School,Skilled Manual,Y
+11074,MR.,LEVI,ARUN,8/28/1956,S,M,levi6@adventure-works.com,70000,2,High School,Skilled Manual,Y
+11075,MRS.,FELICIA,JIMENEZ,11/16/1957,S,F,felicia4@adventure-works.com,80000,2,High School,Professional,Y
+11076,MR.,BLAKE,ANDERSON,7/13/1957,S,M,blake9@adventure-works.com,80000,2,High School,Professional,Y
+11077,MRS.,LEAH,YE,9/19/1957,S,F,leah7@adventure-works.com,80000,2,High School,Professional,N
+11078,MS.,GINA,MARTIN,1/10/1974,S,F,gina1@adventure-works.com,40000,0,High School,Professional,N
+11079,MR.,DONALD,GONZALEZ,3/11/1959,S,M,donald20@adventure-works.com,160000,0,Graduate Degree,Management,Y
+11080,MR.,DAMIEN,CHANDER,7/17/1959,M,M,damien32@adventure-works.com,170000,0,Graduate Degree,Management,Y
+11081,MRS.,SAVANNAH,BAKER,7/24/1966,M,F,savannah39@adventure-works.com,120000,2,Bachelors,Management,Y
+11082,,ANGELA,BUTLER,8/4/1966,S,NA,angela17@adventure-works.com,130000,0,Graduate Degree,Management,N
+11083,MS.,ALYSSA,COX,3/15/1966,M,F,alyssa37@adventure-works.com,130000,0,Graduate Degree,Management,Y
+11084,MR.,LUCAS,PHILLIPS,9/12/1957,S,M,lucas7@adventure-works.com,80000,2,Partial High School,Skilled Manual,N
+11085,MRS.,EMILY,JOHNSON,7/19/1957,S,F,emily1@adventure-works.com,60000,2,High School,Professional,N
+11086,MR.,RYAN,BROWN,12/23/1957,M,M,ryan43@adventure-works.com,70000,2,Partial College,Professional,Y
+11087,MRS.,TAMARA,LIANG,10/3/1957,M,F,tamara6@adventure-works.com,70000,3,Partial College,Professional,N
+11089,MRS.,ABIGAIL,PRICE,2/5/1957,S,F,abigail25@adventure-works.com,80000,2,Bachelors,Management,Y
+11090,MR.,TREVOR,BRYANT,12/17/1957,S,M,trevor18@adventure-works.com,90000,2,Partial College,Professional,Y
+11091,MR.,DALTON,PEREZ,4/4/1957,M,M,dalton37@adventure-works.com,90000,2,Partial College,Professional,Y
+11092,MRS.,CHERYL,DIAZ,5/6/1967,M,F,cheryl4@adventure-works.com,90000,2,Bachelors,Professional,Y
+11093,MS.,AIMEE,HE,9/10/1967,M,F,aimee13@adventure-works.com,100000,0,Graduate Degree,Management,Y
+11094,MR.,CEDRIC,MA,4/1/1962,S,M,cedric15@adventure-works.com,70000,1,Partial College,Skilled Manual,N
+11095,MR.,CHAD,KUMAR,9/1/1962,S,M,chad9@adventure-works.com,70000,1,Partial College,Skilled Manual,Y
+11096,MR.,ANDRÉS,ANAND,8/10/1962,M,M,andrés18@adventure-works.com,60000,1,Bachelors,Professional,Y
+11097,MR.,EDWIN,NARA,10/27/1961,M,M,edwin39@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
+11098,MRS.,MALLORY,RUBIO,5/1/1961,S,F,mallory7@adventure-works.com,60000,1,Partial College,Skilled Manual,N
+11099,MR.,ADAM,ROSS,3/8/1961,M,M,adam2@adventure-works.com,60000,1,Bachelors,Professional,Y
+11100,MRS.,LATASHA,NAVARRO,9/15/1960,S,F,latasha10@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
+11101,MS.,ABBY,SAI,5/8/1965,S,F,abby4@adventure-works.com,70000,0,Bachelors,Professional,N
+11102,MRS.,JULIA,NELSON,4/21/1965,S,F,julia7@adventure-works.com,80000,5,Bachelors,Professional,Y
+11103,MS.,CASSIE,CHANDE,10/17/1964,S,F,cassie13@adventure-works.com,70000,0,Bachelors,Professional,Y
+11104,MR.,EDGAR,SARA,3/11/1964,M,M,edgar11@adventure-works.com,70000,0,Bachelors,Professional,N
+11105,MS.,CANDACE,FERNANDEZ,12/28/1964,S,F,candace15@adventure-works.com,70000,0,Bachelors,Professional,N
+11106,MR.,JESSIE,LIU,9/11/1964,S,M,jessie9@adventure-works.com,70000,0,Bachelors,Professional,N
+11107,MRS.,BIANCA,LIN,9/9/1959,M,F,bianca7@adventure-works.com,90000,1,Bachelors,Professional,Y
+11108,MS.,KARI,ALVAREZ,7/14/1963,S,F,kari25@adventure-works.com,70000,0,Bachelors,Professional,N
+11109,MR.,RUBEN,KAPOOR,11/5/1963,S,M,ruben1@adventure-works.com,70000,0,Bachelors,Professional,N
+11110,MR.,CURTIS,YANG,6/6/1962,M,M,curtis5@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
+11111,MRS.,MEREDITH,GUTIERREZ,2/23/1962,M,F,meredith34@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
+11112,MRS.,CRYSTAL,WANG,9/9/1962,M,F,crystal3@adventure-works.com,60000,1,Partial College,Skilled Manual,Y
+11113,MR.,MICHEAL,BLANCO,2/21/1962,M,M,micheal11@adventure-works.com,70000,5,Bachelors,Professional,Y
+11114,MRS.,LESLIE,MORENO,5/28/1962,S,F,leslie7@adventure-works.com,70000,5,Partial College,Skilled Manual,Y
+11115,MR.,ALVIN,CAI,2/12/1962,M,M,alvin20@adventure-works.com,70000,5,Partial College,Skilled Manual,Y
+11116,MR.,CLINTON,CARLSON,10/7/1962,M,M,clinton14@adventure-works.com,70000,5,Partial College,Skilled Manual,Y
+11117,MRS.,APRIL,DENG,2/21/1961,M,F,april1@adventure-works.com,70000,5,Partial College,Skilled Manual,Y
+11118,MR.,ALVIN,ZENG,7/3/1957,S,M,alvin21@adventure-works.com,80000,1,Partial College,Skilled Manual,N
+11119,MR.,EVAN,JAMES,4/10/1935,S,M,evan8@adventure-works.com,30000,2,Partial College,Clerical,N
+11121,MR.,ORLANDO,SUAREZ,11/18/1960,M,M,orlando19@adventure-works.com,70000,5,Partial College,Skilled Manual,Y
+11122,MR.,BYRON,VAZQUEZ,4/2/1960,M,M,byron9@adventure-works.com,70000,5,Partial College,Skilled Manual,Y
+11123,MR.,PHILIP,ALVAREZ,6/20/1960,M,M,philip4@adventure-works.com,70000,5,Partial College,Skilled Manual,Y
+11124,MR.,ROSS,JORDAN,7/27/1957,S,M,ross1@adventure-works.com,80000,1,Partial College,Skilled Manual,Y
+11125,MRS.,DANA,NAVARRO,4/8/1956,S,F,dana2@adventure-works.com,70000,1,Partial College,Skilled Manual,Y
+11126,MR.,SHAUN,CARSON,4/7/1949,M,M,shaun16@adventure-works.com,10000,2,High School,Skilled Manual,N
+11127,MS.,JAN,EDWARDS,10/21/1975,M,F,jan11@adventure-works.com,40000,0,High School,Skilled Manual,Y
+11128,MS.,SAMANTHA,LONG,12/5/1975,M,F,samantha35@adventure-works.com,40000,0,High School,Skilled Manual,Y
+11129,MS.,JULIA,WRIGHT,8/5/1975,S,F,julia17@adventure-works.com,40000,0,High School,Skilled Manual,Y
+11130,MS.,CAROLINE,RUSSELL,1/6/1980,M,F,caroline21@adventure-works.com,30000,0,High School,Skilled Manual,Y
+11131,MS.,AMANDA,RIVERA,3/12/1980,M,F,amanda7@adventure-works.com,30000,0,High School,Skilled Manual,N
+11132,MS.,MELISSA,RICHARDSON,10/26/1980,S,F,melissa31@adventure-works.com,30000,0,High School,Skilled Manual,N
+11133,MS.,ANGELA,GRIFFIN,9/8/1980,S,F,angela23@adventure-works.com,30000,0,Partial High School,Clerical,N
+11134,MR.,LARRY,TOWNSEND,2/26/1946,S,M,larry14@adventure-works.com,10000,5,High School,Skilled Manual,Y
+11135,MR.,MARCUS,HARRIS,11/3/1979,S,M,marcus14@adventure-works.com,30000,0,Partial High School,Clerical,N
+11136,MS.,BRIANNA,MORGAN,10/26/1978,S,F,brianna30@adventure-works.com,40000,0,High School,Skilled Manual,N
+11137,MS.,JASMINE,TAYLOR,7/20/1978,M,F,jasmine7@adventure-works.com,40000,0,High School,Skilled Manual,Y
+11138,MS.,LAUREN,DAVIS,9/15/1978,M,F,lauren23@adventure-works.com,40000,0,High School,Skilled Manual,N
+11139,MRS.,TANYA,MORENO,11/9/1938,S,F,tanya2@adventure-works.com,30000,2,Partial College,Clerical,N
+11140,MR.,JAVIER,ALVAREZ,2/11/1977,S,M,javier1@adventure-works.com,30000,0,Partial High School,Clerical,N
+11141,MS.,NICOLE,RAMIREZ,6/21/1977,M,F,nicole42@adventure-works.com,40000,0,High School,Skilled Manual,N
+11142,MR.,EDUARDO,PATTERSON,8/14/1977,S,M,eduardo55@adventure-works.com,40000,0,High School,Skilled Manual,N
+11143,MR.,JONATHAN,HENDERSON,2/4/1977,M,M,jonathan4@adventure-works.com,40000,0,High School,Skilled Manual,Y
+11144,MR.,EDWARD,HERNANDEZ,9/9/1979,S,M,edward48@adventure-works.com,40000,0,High School,Skilled Manual,N
+11145,MS.,JASMINE,COLEMAN,12/8/1979,S,F,jasmine46@adventure-works.com,40000,0,High School,Skilled Manual,N
+11146,MRS.,KARLA,GOEL,8/26/1939,S,F,karla20@adventure-works.com,40000,2,Bachelors,Management,Y
+11147,MR.,ERNEST,WU,2/5/1939,M,M,ernest6@adventure-works.com,60000,2,Graduate Degree,Management,Y
+11148,MR.,ROSS,VAZQUEZ,8/16/1941,M,M,ross32@adventure-works.com,40000,2,Bachelors,Management,Y
+11149,MR.,THEODORE,GILL,4/20/1941,M,M,theodore14@adventure-works.com,40000,2,Bachelors,Management,Y
+11150,MR.,RUSSELL,SHEN,3/15/1941,S,M,russell6@adventure-works.com,40000,2,Bachelors,Management,Y
+11151,MRS.,MELINDA,GILL,2/25/1942,S,F,melinda9@adventure-works.com,60000,2,Graduate Degree,Management,N
+11152,MR.,JAMES,WILLIAMS,1/10/1976,S,M,james77@adventure-works.com,40000,0,High School,Skilled Manual,Y
+11153,MS.,ANGELA,JAMES,6/23/1976,M,F,angela34@adventure-works.com,40000,0,High School,Skilled Manual,Y
+11154,MS.,MEGAN,WALKER,8/21/1976,S,F,megan25@adventure-works.com,40000,0,Partial College,Skilled Manual,Y
+11155,MR.,HUNTER,ROBINSON,1/26/1976,S,M,hunter50@adventure-works.com,40000,0,Partial College,Skilled Manual,N
+11156,MS.,MARIA,ROBERTS,2/7/1976,S,F,maria47@adventure-works.com,40000,0,Partial College,Skilled Manual,N
+11157,MS.,HANNAH,LONG,6/11/1975,M,F,hannah32@adventure-works.com,40000,0,High School,Skilled Manual,Y
+11158,MR.,JASON,WRIGHT,10/8/1975,S,M,jason46@adventure-works.com,40000,0,High School,Skilled Manual,Y
+11159,MS.,BRIANNA,HUGHES,9/17/1975,S,F,brianna57@adventure-works.com,40000,0,High School,Skilled Manual,N
+11160,MR.,MAURICE,TANG,1/8/1974,S,M,maurice4@adventure-works.com,40000,0,Partial College,Skilled Manual,N
+11161,MS.,EMILY,WOOD,4/22/1974,S,F,emily27@adventure-works.com,40000,0,Partial College,Skilled Manual,N
+11162,MR.,CHASE,COX,3/5/1974,S,M,chase10@adventure-works.com,40000,0,Partial College,Skilled Manual,Y
+11163,MR.,GABRIEL,WANG,12/20/1974,M,M,gabriel21@adventure-works.com,40000,0,Partial College,Skilled Manual,Y
+11164,MR.,DEVIN,BROOKS,5/5/1974,S,M,devin63@adventure-works.com,40000,0,Partial College,Skilled Manual,N
+11165,MS.,JOCELYN,ALEXANDER,7/18/1973,M,F,jocelyn18@adventure-works.com,60000,0,Partial College,Skilled Manual,N
+11166,MS.,ASHLEY,MARTINEZ,4/24/1972,S,F,ashley18@adventure-works.com,70000,0,Partial College,Skilled Manual,N
+11167,MS.,JASMINE,BARNES,8/1/1972,S,F,jasmine43@adventure-works.com,80000,0,Bachelors,Management,N
+11168,MR.,DAVID,RODRIGUEZ,5/15/1968,S,M,david83@adventure-works.com,80000,0,Bachelors,Management,N
+11169,MR.,BRYCE,RICHARDSON,6/22/1968,M,M,bryce8@adventure-works.com,90000,4,Bachelors,Management,Y
+11170,MRS.,CAROL,HOWARD,2/5/1968,M,F,carol5@adventure-works.com,90000,4,Bachelors,Management,Y
+11171,MR.,JONATHAN,HILL,10/9/1967,S,M,jonathan43@adventure-works.com,100000,1,Bachelors,Management,Y
+11172,MRS.,GABRIELLE,ADAMS,11/21/1967,M,F,gabrielle58@adventure-works.com,100000,1,Bachelors,Management,Y
+11173,MS.,SARAH,THOMAS,9/1/1967,S,F,sarah13@adventure-works.com,110000,0,Graduate Degree,Management,N
+11174,MR.,NICHOLAS,ROBINSON,7/13/1967,M,M,nicholas19@adventure-works.com,110000,0,Graduate Degree,Management,Y
+11175,MR.,LUIS,WANG,3/5/1963,S,M,luis24@adventure-works.com,70000,0,Partial College,Skilled Manual,Y
+11176,MR.,MASON,ROBERTS,1/25/1968,M,M,mason25@adventure-works.com,90000,4,Bachelors,Management,Y
+11177,MR.,JOSE,FLORES,7/4/1942,M,M,jose6@adventure-works.com,110000,2,Graduate Degree,Management,Y
+11178,MR.,NATHAN,JOHNSON,8/24/1943,M,M,nathan55@adventure-works.com,100000,2,Graduate Degree,Management,Y

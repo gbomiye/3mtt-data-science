@@ -1,0 +1,7 @@
+name,latitude,longitude,type
+Landmark A,40.6892,-74.0445,landmark
+Landmark B,34.1341,-118.3215,landmark
+City Center,41.8781,-87.6298,city_center
+Landmark C,29.4241,-98.4936,landmark
+Landmark D,39.7392,-104.9903,landmark
+City Center,37.7749,-122.4194,city_center

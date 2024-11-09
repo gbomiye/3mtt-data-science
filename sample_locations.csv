@@ -1,0 +1,11 @@
+name,latitude,longitude,value,category
+Location A,40.7128,-74.0060,100,urban
+Location B,34.0522,-118.2437,80,urban
+Location C,41.8781,-87.6298,75,urban
+Location D,29.7604,-95.3698,50,urban
+Location E,39.7392,-104.9903,60,urban
+Location F,32.7767,-96.7970,55,rural
+Location G,37.7749,-122.4194,90,urban
+Location H,47.6062,-122.3321,65,rural
+Location I,42.3601,-71.0589,85,urban
+Location J,25.7617,-80.1918,70,rural
